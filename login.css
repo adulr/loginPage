@@ -1,0 +1,18 @@
+
+body {
+    background-image: url(assets/main-bg.jpg);
+    background-repeat: no-repeat;
+    margin: 0;
+    background-size: cover;
+  }
+
+.container {
+    height: 25rem;
+    width: 30%;
+    margin-top: 15%;
+    background-color: black;
+    border-radius: 10px;
+    opacity: 0.7;
+    padding-top: 2.4rem;
+    color : white;
+}
